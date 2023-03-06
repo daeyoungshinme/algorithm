@@ -31,3 +31,10 @@
 | 순번 |  문제 번호 | 문제 이름 | 난이도 | 풀이 링크 |
 | :-----: | :-----: | :-----: | :-----: | :----: |
 | 00 | <a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a> | <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./DFS&BFS/1260.py) |
+
+
+### 정렬
+
+| 순번 |  문제 번호 | 문제 이름 | 난이도 | 풀이 링크 |
+| :-----: | :-----: | :-----: | :-----: | :----: |
+| 00 | <a href="https://www.acmicpc.net/problem/2751" target="_blank">2751</a> | <a href="https://www.acmicpc.net/problem/2751" target="_blank">수 정렬하기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./정렬/2751.py) |

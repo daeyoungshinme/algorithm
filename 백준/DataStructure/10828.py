@@ -1,12 +1,11 @@
 import sys
-input = sys.stdin.readline
+input = sys.stdin.readline # 반복문으로 여러줄 입력 받을때 쓸것!
 
 n = int(input())
 stack = []
 
 for i in range(n):
     commands = input().rstrip().split()
-    # print(commands)
 
     if commands[0] == 'push':  # push X: 정수 X를 스택에 넣는 연산이다.
         stack.append(commands[1])
