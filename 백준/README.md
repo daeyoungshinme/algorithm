@@ -38,3 +38,11 @@
 | 순번 |  문제 번호 | 문제 이름 | 난이도 | 풀이 링크 |
 | :-----: | :-----: | :-----: | :-----: | :----: |
 | 00 | <a href="https://www.acmicpc.net/problem/2751" target="_blank">2751</a> | <a href="https://www.acmicpc.net/problem/2751" target="_blank">수 정렬하기 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./정렬/2751.py) |
+| 01 | <a href="https://www.acmicpc.net/problem/1181" target="_blank">1181</a> | <a href="https://www.acmicpc.net/problem/1181" target="_blank">단어 정렬</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./정렬/1181.py) |
+
+### 이진 탐색
+
+| 순번 |  문제 번호 | 문제 이름 | 난이도 | 풀이 링크 |
+| :-----: | :-----: | :-----: | :-----: | :----: |
+| 00 | <a href="https://www.acmicpc.net/problem/2512" target="_blank">2512</a> | <a href="https://www.acmicpc.net/problem/2512" target="_blank">예산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./정렬/2751.py) |
+| 01 | <a href="https://www.acmicpc.net/problem/2417" target="_blank">2417</a> | <a href="https://www.acmicpc.net/problem/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./정렬/2417.py) |
