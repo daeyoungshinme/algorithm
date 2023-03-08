@@ -46,3 +46,12 @@
 | :-----: | :-----: | :-----: | :-----: | :----: |
 | 00 | <a href="https://www.acmicpc.net/problem/2512" target="_blank">2512</a> | <a href="https://www.acmicpc.net/problem/2512" target="_blank">예산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./정렬/2751.py) |
 | 01 | <a href="https://www.acmicpc.net/problem/2417" target="_blank">2417</a> | <a href="https://www.acmicpc.net/problem/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](./정렬/2417.py) |
+
+
+### 다이나믹 프로그래밍
+
+| 순번 |  문제 번호 | 문제 이름 | 난이도 | 풀이 링크 |
+| :-----: | :-----: | :-----: | :-----: | :----: |
+| 00 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1463</a> | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./다이나믹프로그래밍/obj1463.py) |
+| 01 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">11055</a> | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./다이나믹프로그래밍/obj11055.py) |
+
