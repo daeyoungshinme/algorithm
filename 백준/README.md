@@ -7,7 +7,8 @@
 | :-----: | :-----: | :-----: | :-----: | :----: |
 | 00 | <a href="https://www.acmicpc.net/problem/14916" target="_blank">14916</a> | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./그리디/boj14916.py)|
 | 01 | <a href="https://www.acmicpc.net/problem/1343" target="_blank">1343</a> | <a href="https://www.acmicpc.net/problem/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](./그리디/boj1343.py)|
-
+| 02 | <a href="https://www.acmicpc.net/problem/20115" target="_blank">20115</a> | <a href="https://www.acmicpc.net/problem/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./그리디/boj20115.py)|
+| 03 | <a href="https://www.acmicpc.net/problem/1541" target="_blank">1541</a> | <a href="https://www.acmicpc.net/problem/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./그리디/boj1541.py)|
 <br>
 
 ### 구현
