@@ -55,6 +55,7 @@
 | :-----: | :-----: | :-----: | :-----: | :----: |
 | 00 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1463</a> | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./다이나믹프로그래밍/boj1463.py) |
 | 01 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">11055</a> | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./다이나믹프로그래밍/boj11055.py) |
+| 02 | <a href="https://www.acmicpc.net/problem/14501" target="_blank">14501</a> | <a href="https://www.acmicpc.net/problem/14501" target="_blank">퇴사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./다이나믹프로그래밍/boj14501.py) |
 
 
 ### 최단 경로
