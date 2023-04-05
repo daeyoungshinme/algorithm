@@ -22,4 +22,4 @@ for _ in range(n):
 
 results = list(set(results))
 results.sort()
-print('\n'.join(sorted(results,key=len)))
+print('\n'.join(sorted(results, key=len)))
