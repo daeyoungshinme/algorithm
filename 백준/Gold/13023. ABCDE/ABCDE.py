@@ -1,3 +1,5 @@
+import sys
+input = sys.stdin.readline
 
 def set_grapth():
     """
